@@ -102,3 +102,21 @@ vim gittest2
 git add .
 git commit -m "gittest2 commit"
 git log
+git status
+git remote add origin https://github.com/saidheeraj83/First.git
+git remote --verbose
+git remote set-url https://github.com/saidheeraj83/First.git
+git remote --verbose
+git branch
+git push -u origin master
+git push -u orgin master
+git push -u origin master
+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
+git push -u origin master
+git remote --verbose
+git remote set-url origin https://github.com/saidheeraj83/First.git
+git remote --verbose
+git add
+git add .
+git commit -m "GITHUB1.git"
+git push origin master
