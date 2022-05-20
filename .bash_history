@@ -120,3 +120,74 @@ git add
 git add .
 git commit -m "GITHUB1.git"
 git push origin master
+git branch
+git checkout master
+git checkout branch1
+git branch
+git checkout branch1
+git branch branch2
+git branch
+git checkout branch2
+git branch
+ls -al
+ll
+git status
+git checkout branch2
+git checkout master
+touch file4
+cat file4
+vim file4
+ls -al
+git status
+git add .
+git status
+git add file4
+git commit -m "file4"
+git log
+git status
+git branch
+git push -u file4
+git push -u file4 master
+touch file4
+ls -al
+git status
+ll
+touch file5 file6
+ls -al
+git status
+git add file5 file6
+git commit -m "fifth commit for next files" file5 file6
+git branch
+git push -u origin master
+git checkout branch1
+git branch
+git checkout branch1
+git commit
+git add .
+git status
+git branch
+git checkout branch2
+git commit -m origin file5 file6
+git commit -a
+git status
+git branch
+git log
+git branch
+sudo -i
+git branch
+git checkout branch1
+git commit file5
+ls -al
+cat file5
+vim file5
+ll
+vim file6
+ls al
+ls -al
+git commit -m "hi" file5 file 6
+git commit -m "hi" file5 file6
+git staatus
+git status
+git branch
+git checkout branch2
+git commit .
