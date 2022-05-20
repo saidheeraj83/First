@@ -72,3 +72,26 @@ git checkout master
 git status
 yum install java-1.8.0-open jdk -y
 yum install java-1.9.0-open jdk -y
+java -version
+yum install git -y
+git --vrsion
+ll
+ls -al
+git init
+touch gittest
+ll
+i
+I
+vim gittest
+ll
+cat gittest
+ls -al
+git status
+git add gittest
+ll
+ls -al
+git add .
+ls -al
+git log
+git commit -m "gittest sample" .
+git log
