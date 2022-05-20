@@ -95,3 +95,10 @@ ls -al
 git log
 git commit -m "gittest sample" .
 git log
+git status
+git log
+touch gittest2
+vim gittest2
+git add .
+git commit -m "gittest2 commit"
+git log
